@@ -1,0 +1,10 @@
+interval-seconds: 1.0
+amount-per-tick: 1.0
+spent: 0.1
+server-uuid: "00000000-0000-0000-0000-000000000000"
+miner-block: "VAULT"
+
+fuels:
+  REDSTONE: 10.0
+  COAL: 5.0
+  CHARCOAL: 1.0
